@@ -1,0 +1,3 @@
+- All contributions must be created by you. If you collaborated with someone, declare them as your commit's co-author.
+- Only contribute with content related to the studies at FIT VUT. Other unrelated content is not allowed
+- Do not post anything discriminatory, sexistic, racist, or anything that might offend someone based on their gender, sexual orientation, beliefs, political views, interests, taste of music and so on.
